@@ -10,6 +10,10 @@ I think, there were at all 4 users editing on the project.
 I want to plan and setup a migration script that contains the commands for conversion. This repo is therefore
 the preparation project targeting another repo.
 
+Some reading:
+http://cvs2svn.tigris.org/cvs2git.html, 
+http://stackoverflow.com/questions/881158/is-there-a-migration-tool-from-cvs-to-git
+
 Any help is appreciated.
 
 Lothar
