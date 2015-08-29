@@ -1,4 +1,4 @@
-# test_repo_cvs_migration
+# cvs_migration
 This is my repository for tests to migrate my CVS project. DO NOT FORK, IT WILL BE DELETED AGAIN!
 
 The source repository will be my project as of http://sourceforge.net/projects/lbdmf/.
