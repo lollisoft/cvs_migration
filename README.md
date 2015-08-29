@@ -1,5 +1,5 @@
 # cvs_migration
-This is my repository for tests to migrate my CVS project. DO NOT FORK, IT WILL BE DELETED AGAIN!
+This is my repository for migrate scripts to get my CVS project converted.
 
 The source repository will be my project as of http://sourceforge.net/projects/lbdmf/.
 Within that project the CVS repository contains a HEAD branch and a second where I currently work.
